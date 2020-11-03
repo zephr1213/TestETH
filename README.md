@@ -11,5 +11,4 @@ Symbol: TST
 Decimals: 0
   <br>
 </h3>
-<iframe src="https://vittominacori.github.io/watch-token/detail.html?
-address=0xe1447d8972922e30D7D708DE5F64F85f24845B3c&network=ropsten"></iframe>
+<iframe src="https://vittominacori.github.io/watch-token/detail.html?address=0xe1447d8972922e30D7D708DE5F64F85f24845B3c&network=ropsten"></iframe>
