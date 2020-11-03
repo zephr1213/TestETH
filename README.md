@@ -11,3 +11,5 @@ Symbol: TST
 Decimals: 0
   <br>
 </h3>
+# See the source code
+Go to TestETH.sol
